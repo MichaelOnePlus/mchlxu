@@ -1,6 +1,6 @@
 # Basic site configs
-baseurl: ""
-url: "http://photography.ramswaroop.me"
+baseurl: "http://mchlxu.github.io"
+url: "http://mchlxu.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
